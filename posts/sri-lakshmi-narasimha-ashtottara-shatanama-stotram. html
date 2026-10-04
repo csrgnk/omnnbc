@@ -24,7 +24,7 @@
   <meta property="twitter:title" content="Sri Lakshmi Narasimha Ashtottara Shatanama Stotram in Telugu">
   <meta property="twitter:description" content="శ్రీ లక్ష్మీ నరసింహ స్వామి అనుగ్రహం కోసం పఠించే పవిత్రమైన శ్రీ లక్ష్మీ నరసింహ అష్టోత్తర శతనామ స్తోత్రం తెలుగు లిరిక్స్ ఇక్కడ చదవండి.">
 
-  <!-- Style for Display Description -->
+  <!-- Styling -->
   <style>
     .stotram-container {
       max-width: 800px;
@@ -37,6 +37,7 @@
     .stotram-header {
       font-size: 26px;
       color: #8b0000;
+      text-align: center;
       border-bottom: 2px solid #8b0000;
       padding-bottom: 10px;
       margin-bottom: 15px;
@@ -45,94 +46,160 @@
       background-color: #fff8e7;
       border-left: 5px solid #d4af37;
       padding: 15px 20px;
-      font-size: 17px;
+      font-size: 16px;
       color: #4a4a4a;
       border-radius: 4px;
       margin-bottom: 25px;
+    }
+    .stotram-sub-heading {
+      text-align: center;
+      color: #800080;
+      font-size: 22px;
+      margin-top: 20px;
+    }
+    .stotram-title-telugu {
+      text-align: center;
+      color: #800000;
+      font-size: 20px;
+      font-weight: bold;
+      margin: 15px 0;
+    }
+    .stotram-verses {
+      text-align: center;
+      font-size: 18px;
+      line-height: 2;
+    }
+    .phala-sruti {
+      text-align: center;
+      color: #333300;
+      font-weight: bold;
+      margin-top: 20px;
+      font-size: 17px;
+    }
+    .stotram-footer {
+      text-align: center;
+      margin-top: 30px;
+    }
+    .stotram-footer a {
+      color: #0056b3;
+      text-decoration: underline;
+    }
+    hr {
+      border: 0;
+      border-top: 1px solid #ddd;
+      margin: 20px 0;
     }
   </style>
 </head>
 <body>
 
-  <div class="stotram-container">
+  <article class="stotram-container">
     <!-- Main Heading -->
-    <h1 class="stotram-header">శ్రీ లక్ష్మీ నరసింహ అష్టోత్తర శతనామ స్తోత్రం (Sri Lakshmi Narasimha Ashtottara Shatanama Stotram)</h1>
+    <h1 class="stotram-header">శ్రీ లక్ష్మీ నరసింహ అష్టోత్తర శతనామ స్తోత్రం</h1>
 
-    <!-- Display Description Section -->
+    <!-- Display Description -->
     <div class="display-description">
+      శ్రీ లక్ష్మీ నరసింహ స్వామి అష్టోత్తర శతనామ స్తోత్రం అత్యంత మహిమాన్వితమైనది. శ్రీమహావిష్ణువు ఉగ్రరూపమైన నరసింహావతారంలో లక్ష్మీ సమేతుడై భక్తుల కష్టాలను, భయాలను దూరం చేస్తాడు. ఈ 108 దివ్య నామాలను నిత్యం లేదా ప్రతి మంగళవారం, స్వాతి నక్షత్రం రోజులలో పఠించడం వల్ల శత్రు బాధలు తొలగి, సర్వకార్య జయం మరియు అష్టైశ్వర్యాలు కలుగుతాయి. ఈ పవిత్రమైన స్తోత్రం యొక్క పూర్తి సాహిత్యం క్రింద ఇవ్వబడింది.
+    </div>
+
+    <!-- Secondary Title -->
+    <h2 class="stotram-sub-heading">Sri Lakshmi Narasimha Ashtottara Shatanama Stotram</h2>
+    <hr />
+
+    <p class="stotram-title-telugu">లక్ష్మీనృసింహ అష్టోత్తర శత నామ స్తోత్రమ్‌ :</p>
+    <hr />
+
+    <!-- Stotram Lyrics (1-14 Verses) -->
+    <div class="stotram-verses">
       <p>
-        శ్రీ లక్ష్మీ నరసింహ స్వామి అష్టోత్తర శతనామ స్తోత్రం అత్యంత మహిమాన్వితమైనది. శ్రీమహావిష్ణువు ఉగ్రరూపమైన నరసింహావతారంలో లక్ష్మీ సమేతుడై భక్తుల కష్టాలను, భయాలను దూరం చేస్తాడు. ఈ 108 దివ్య నామాలను నిత్యం లేదా ప్రతి మంగళవారం, స్వాతి నక్షత్రం రోజులలో పఠించడం వల్ల శత్రు బాధలు తొలగి, సర్వకార్య జయం మరియు అష్టైశ్వర్యాలు కలుగుతాయి. ఈ పవిత్రమైన స్తోత్రం యొక్క పూర్తి సాహిత్యం క్రింద ఇవ్వబడింది.
+        నారసింహో మహాసింహో దివ్యసింహో మహాబలః |<br>
+        ఉగ్రసింహో మహాదేవ స్స్తంభజ శ్చోగ్రలోచనః || 1 ||
+      </p>
+
+      <p>
+        రౌద్ర స్సర్వాద్భుత శ్శ్రీమా న్యోగానంద స్త్రివిక్రమః |<br>
+        హరిః కోలాహల శ్చక్రీ విజయీ జయవర్ధనః || 2 ||
+      </p>
+
+      <p>
+        పంచాననః పరంబ్రహ్మో చాఘోరో ఘోరవిక్రమః |<br>
+        జ్వలన్ముఖో జ్వాలమాలీ మహాజ్వాలో మహాప్రభుః || 3 ||
+      </p>
+
+      <p>
+        నిటలాక్ష స్సహస్రాక్షో దుర్నిరీక్ష ప్రతాపనః |<br>
+        మహాదంష్ట్రాయుధః ప్రాజ్ఞ శ్చండకోపీ సదాశివః || 4 ||
+      </p>
+
+      <p>
+        హిరణ్యకశిపుధ్వంసీ దైత్యదానవ భంజనః |<br>
+        గుణభద్రో మహాభద్రో బలభద్ర స్సుభద్రకః || 5 ||
+      </p>
+
+      <p>
+        కరాళో వికరాళశ్చ వికర్తా సర్వకర్తృకః |<br>
+        శింశుమార స్త్రిలోకాత్మా ఈశ స్సర్వేశ్వరో విభుః || 6 ||
+      </p>
+
+      <p>
+        భైరవాడంబరో దివ్య శ్చాచ్యుతః కవి మాధవః |<br>
+        అధోక్షజోఽక్షర శ్శర్వో వనమాలీ వరప్రదః || 7 ||
+      </p>
+
+      <p>
+        విశ్వంభరోఽద్భుతో భవ్యః శ్రీవిష్ణుః పురుషోత్తమః |<br>
+        అనఘాస్త్రో నఖాస్త్రశ్చ సూర్యజ్యోతి స్సురేశ్వరః || 8 ||
+      </p>
+
+      <p>
+        సహస్రబాహు స్సర్వజ్ఞ స్సర్వసిద్ధిప్రదాయకః |<br>
+        వజ్రదంష్ట్రో వజ్రనఖో మహానందః పరంతపః || 9 ||
+      </p>
+
+      <p>
+        సర్వమంత్రైకరూపశ్చ సర్వయంత్రవిదారణః |<br>
+        సర్వతంత్రాత్మకోఽవ్యక్త స్సువ్యక్తో భక్తవత్సలః || 10 ||
+      </p>
+
+      <p>
+        వైశాఖశుక్లభూతోత్థ శ్శరణాగతవత్సలః |<br>
+        ఉదారకీర్తిః పుణ్యాత్మా మహాత్మా చండవిక్రమః || 11 ||
+      </p>
+
+      <p>
+        వేదత్రయప్రపూజ్యశ్చ భగవా న్పరమేశ్వరః |<br>
+        శ్రీవత్సాంక శ్శ్రీనివాసో జగద్వ్యాపీ జగన్మయః || 12 ||
+      </p>
+
+      <p>
+        జగత్పాలో జగన్నాథో మహాకాయో ద్విరూపభృత్‌ |<br>
+        పరమాత్మా పరంజ్యోతి ర్నిర్గుణశ్చ నృకేసరీ || 13 ||
+      </p>
+
+      <p>
+        పరతత్వం పరంధామ సచ్చిదానందవిగ్రహః |<br>
+        లక్ష్మీనృసింహ స్సర్వాత్మా ధీరః ప్రహ్లాదపాలకః || 14 ||
+      </p>
+
+      <!-- Phalasruti -->
+      <p class="phala-sruti">
+        ఇదం శ్రీమన్నృసింహస్య నామ్నా మష్టోత్తరం శతం |<br>
+        త్రిసంధ్యం యః పఠేద్భక్త్యా సర్వాభీష్టమవాప్నుయాత్‌ ॥
       </p>
     </div>
 
-    <!-- Stotram lyrics will go here -->
-    <div class="stotram-content">
-      <!-- స్తోత్రం సాహిత్యాన్ని ఇక్కడ చేర్చండి -->
+    <hr />
+
+    <!-- Outro & Internal Links -->
+    <div class="stotram-footer">
+      <p><strong style="color: #800000;">Thank you for reading Sri Lakshmi Narasimha Ashtottara Shatanama Stotram</strong></p>
+      <hr />
+      <p>
+        <strong>Also Read: </strong>
+        <a href="/sri-narasimha-kavacham-lyrics-in-telugu/">Sri Narasimha Kavacham lyrics in Telugu – శ్రీ నృసింహ కవచం</a>
+      </p>
     </div>
-  </div>
+  </article>
 
 </body>
 </html>
-
-<h2 style="text-align: center;"><span style="color: #800080;">Sri Lakshmi Narasimha Ashtottara Shatanama Stotram</span></h2>
-
-<hr />
-
-<p style="text-align: center;"><span style="color: #800000;"><strong>లక్ష్మీనృసింహ అష్టోత్తర శత నామ స్తోత్రమ్‌ :</strong></span></p>
-
-<hr />
-
-<p style="text-align: center;">నారసింహో మహాసింహో దివ్యసింహో మహాబలః
-ఉగ్రసింహో మహాదేవ స్స్తంభజ శ్చోగ్రలోచనః || 1 ||</p>
-
-<p style="text-align: center;">రౌద్ర స్సర్వాద్భుత శ్శ్రీమా న్యోగానంద స్త్రివిక్రమః
-హరిః కోలాహల శ్చక్రీ విజయీ జయవర్ధనః
-|| 2 ||</p>
-
-<p style="text-align: center;">పంచాననః పరంబ్రహ్మో చాఘోరో ఘోరవిక్రమః
-జ్వలన్ముఖో జ్వాలమాలీ మహాజ్వాలో మహాప్రభుః || 3 ||</p>
-
-<p style="text-align: center;">నిటలాక్ష స్సహస్రాక్షో దుర్నిరీక్ష ప్రతాపనః
-మహాదంష్ట్రాయుధః ప్రాజ్ఞ శ్చండకోపీ సదాశివః || 4 ||</p>
-
-<p style="text-align: center;">హిరణ్యకశిపుధ్వంసీ దైత్యదానవ భంజనః
-గుణభద్రో మహాభద్రో బలభద్ర స్సుభద్రకః || 5 ||</p>
-
-<p style="text-align: center;">కరాళో వికరాళశ్చ వికర్తా సర్వకర్తృకః
-శింశుమార స్త్రిలోకాత్మా ఈశ స్సర్వేశ్వరో విభుః || 6 ||</p>
-
-<p style="text-align: center;">భైరవాడంబరో దివ్య శ్చాచ్యుతః కవి మాధవః
-అధోక్షజోఽక్షర శ్శర్వో వనమాలీ వరప్రదః || 7 ||</p>
-
-<p style="text-align: center;">విశ్వంభరోఽద్భుతో భవ్యః శ్రీవిష్ణుః పురుషోత్తమః
-అనఘాస్త్రో నఖాస్త్రశ్చ సూర్యజ్యోతి స్సురేశ్వరః || 8 ||</p>
-
-<p style="text-align: center;">
-సహస్రబాహు స్సర్వజ్ఞ స్సర్వసిద్ధిప్రదాయకః
-వజ్రదంష్ట్రో వజ్రనఖో మహానందః పరంతపః || 9 ||</p>
-
-<p style="text-align: center;">సర్వమంత్రైకరూపశ్చ సర్వయంత్రవిదారణః
-సర్వతంత్రాత్మకోఽవ్యక్త స్సువ్యక్తో భక్తవత్సలః || 10 ||</p>
-
-<p style="text-align: center;">వైశాఖశుక్లభూతోత్థ శ్శరణాగతవత్సలః
-ఉదారకీర్తిః పుణ్యాత్మా మహాత్మా చండవిక్రమః || 11 ||</p>
-
-<p style="text-align: center;">వేదత్రయప్రపూజ్యశ్చ భగవా న్పరమేశ్వరః
-శ్రీవత్సాంక శ్శ్రీనివాసో జగద్వ్యాపీ జగన్మయః || 12 ||</p>
-
-<p style="text-align: center;">జగత్పాలో జగన్నాథో మహాకాయో ద్విరూపభృత్‌
-పరమాత్మా పరంజ్యోతి ర్నిర్గుణశ్చ నృకేసరీ || 13 ||</p>
-
-<p style="text-align: center;">పరతత్వం పరంధామ సచ్చిదానందవిగ్రహః
-లక్ష్మీనృసింహ స్సర్వాత్మా ధీరః ప్రహ్లాదపాలకః || 14 ||</p>
-
-<p style="text-align: center;">
-<span style="color: #333300;"><strong>ఇదం శ్రీమన్నృసింహస్య నామ్నా మష్టోత్తరం శతం త్రిసంధ్యం యః పఠేద్భక్త్యా సర్వాభీష్టమవాప్నుయాత్‌ ॥</strong></span></p>
-
-<hr />
-
-<p style="text-align: center;"><span style="color: #800000;"><strong>Thank you for watching Sri Lakshmi Narasimha Ashtottara Shatanama Stotram </strong></span></p>
-
-<hr />
-
-<p style="text-align: center;"><strong>Please watch to </strong><strong><a href="/sri-narasimha-kavacham-lyrics-in-telugu/">Sri Narasimha Kavacham lyrics in Telugu – శ్రీ నృసింహ కవచం</a></strong></p>
